@@ -1,0 +1,6 @@
+{
+  "name": "app-bbva",
+  "short_name": "app-bbva",
+  "start_url": "/",
+  "display": "standalone"
+}
